@@ -26,3 +26,4 @@
 
 我主要是分析车辆位置数据，也就是轨迹数据，通过轨迹数据做一些特征工程。分别从时间特征和空间特征来提取特征进行预测。内容均在trajectory_feature.md中，特征提取的代码会分别在spatial_feature.py和temporal_feature.py中。
 
+通过参考论文《》
